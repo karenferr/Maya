@@ -1,5 +1,5 @@
 # maya
-- Maya Catveloper Website
+- Maya CatWebsite
 This project is inspired by my cat, Maya, and aims to showcase her fictitious skills as a developer and designer. The website brings a touch of humor and creativity, using terminology adapted to the feline universe.
 
 - Sections:
